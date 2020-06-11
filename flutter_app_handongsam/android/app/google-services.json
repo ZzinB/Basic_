@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "458570427737",
+    "firebase_url": "https://handongsam-c4133.firebaseio.com",
+    "project_id": "handongsam-c4133",
+    "storage_bucket": "handongsam-c4133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458570427737:android:a74818e68aaac87e7ef048",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_handongsam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458570427737-shjut69tsmfunk8dff475c61mj0leslf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app_handongsam",
+            "certificate_hash": "e4a0a20dfcfe73ba6f57cd80bb9e5857b2bf5142"
+          }
+        },
+        {
+          "client_id": "458570427737-boaa3fke7ltd94b3tb2ip4p5fmrv4f12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpCTh77WoCHJrrRrqyjFTzwIThK_rC2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458570427737-boaa3fke7ltd94b3tb2ip4p5fmrv4f12.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458570427737-huckdadra5tml6qoph5et8b23uqfjn68.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dexterous.flutterLocalNotificationsExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
